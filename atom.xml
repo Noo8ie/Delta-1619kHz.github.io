@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noo8ie.github.io</id>
     <title>Gridea</title>
-    <updated>2021-06-17T17:04:59.128Z</updated>
+    <updated>2021-06-27T09:22:01.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://noo8ie.github.io"/>
     <link rel="self" href="https://noo8ie.github.io/atom.xml"/>
@@ -10,15 +10,6 @@
     <logo>https://noo8ie.github.io/images/avatar.png</logo>
     <icon>https://noo8ie.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
-    <entry>
-        <title type="html"><![CDATA[数字图像处理]]></title>
-        <id>https://noo8ie.github.io/post/shu-zi-tu-xiang-chu-li/</id>
-        <link href="https://noo8ie.github.io/post/shu-zi-tu-xiang-chu-li/">
-        </link>
-        <updated>2021-06-17T16:56:44.000Z</updated>
-        <content type="html"><![CDATA[<p>1</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[美赛]算法集合]]></title>
         <id>https://noo8ie.github.io/post/mei-sai-suan-fa-ji-he/</id>
